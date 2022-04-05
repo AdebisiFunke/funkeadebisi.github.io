@@ -4502,7 +4502,10 @@ textarea.form-control-lg {
 .navbar-dark .navbar-text a:focus {
   color: #fff;
 }
-
+img.rounded.image-fluid.border {
+    width: 90%;
+    height: 250px;
+}
 .card {
   position: relative;
   display: flex;
